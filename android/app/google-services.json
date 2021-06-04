@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "374102193091",
+    "project_id": "fir-ml-vision-5424f",
+    "storage_bucket": "fir-ml-vision-5424f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374102193091:android:a99b3360684be0aa65c376",
+        "android_client_info": {
+          "package_name": "com.example.ml_vision_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374102193091-alje8pl269u9g5jjbitud837g0bakdan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAimcaF62EjMbC0b0C4pTnGnIt9khHLj5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374102193091-alje8pl269u9g5jjbitud837g0bakdan.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
